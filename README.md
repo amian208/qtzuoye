@@ -1,1 +1,2 @@
 simple版本在music文件夹中，完整版在主文件夹中。
+使用完整版需要自行下载mysql，服务器登录在mainwindow.cpp.中，并且需要将mainwindow.cpp中的setDatabase里的SQLITE改为QMYSQL
